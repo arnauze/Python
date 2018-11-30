@@ -1,12 +1,12 @@
 # Python
 
-Action game :
-
 git clone https://github.com/arnauze/Python.git
 
-python3 game.py
+Action game :
+
+A very simple game where you pick a class between Warrior, Mage or Archer and try to defeat bosses.
 
 
 Linked list:
 
-A simplie linked list implementation in python
+A simple linked list implementation in python
